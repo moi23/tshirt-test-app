@@ -1,0 +1,12 @@
+{
+  "name": "native-tshirt-test",
+  "displayName": "native-tshirt-test",
+  "expo": {
+    "name": "native-tshirt-test",
+    "slug": "native-tshirt-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
